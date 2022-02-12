@@ -1,0 +1,113 @@
+h1 {
+  color: #66BFBF;
+  font-family: 'Lobster', cursive;
+  font-family: 'Merriweather', serif;
+  font-family: 'Sacramento', cursive;
+  font-size: 35px;
+  font-size: 70px;
+}
+
+h2 {
+  color: #66BFBF;
+
+}
+
+body {
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 8px;
+  width: 8%;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.intro {
+  color: #40514E;
+  width: 60%;
+  font-size: 17px;
+  margin: auto;
+  line-height: normal;
+  padding-bottom: 10px;
+}
+
+.top {
+  padding: 10px;
+  background-color: #EAF6F6;
+}
+
+.top1 {
+  text-align: center;
+  position: relative;
+  left: 40px;}
+
+  .pic1 {
+    position: relative;
+    right: 420px;
+  }
+
+  .pic2 {
+    position: relative;
+    left: 390px;
+  }
+
+  .last {
+    color: #EAF6F6;
+    font-size: 11px;
+  }
+
+  .bottom-container{
+    padding: 50px 0px 20px;
+    background-color:#66BFBF;
+  }
+
+  .profile{
+    width: auto;
+    margin:auto;
+    font-size: 11px;
+  }
+
+.h2{
+  font-size: 35px;
+}
+a{
+  color:#11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-size: 19px;
+
+}
+a:hover{
+  color: #EAF6F6;
+
+}
